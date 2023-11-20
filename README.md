@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptlvrd&label=Profile%20views&color=0e75b6&style=flat" alt="ptlvrd" /> </p>
 
-- 🔭 I’m currently studying in **computer programming and analysis**
+- 🔭 I’m currently studying **computer programming and analysis**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, javascript,html**
 
 - 👯 I’m looking to collaborate on **on open-source projects related to data analytics, machine learning, or any exciting programming challenges**
 
-- 🤝 I’m interested in **web development**
+- 🤝 I’m interested in **Software development**
 
 - 📫 How to reach me **patelvrunda027@gmail.com**
 
