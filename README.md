@@ -9,7 +9,7 @@
 
 - 👯 I’m actively seeking **opportunities to collaborate on open-source projects, contributing my skills and expertise to create innovative and efficient software application**
 
-- 🤝 I’m interested in **Software development**
+- 🤝 I’m interested in **Software development and Web development**
 
 - 📫 How to reach me **patelvrunda027@gmail.com**
 
