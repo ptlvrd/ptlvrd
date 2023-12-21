@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, javascript,html**
 
-- 👯 I’m looking to collaborate on **on open-source projects related to data analytics, machine learning, or any exciting programming challenges**
+- 👯 I’m actively seeking **opportunities to collaborate on open-source projects, contributing my skills and expertise to create innovative and efficient software application**
 
 - 🤝 I’m interested in **Software development**
 
