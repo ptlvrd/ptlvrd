@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Vrunda Patel</h1>  
-<h3 align="center">💻 Data Analyst Enthusiast</h3>  
+<h3 align="center">📊📈🔍 Data Analyst Enthusiast</h3>  
 
 <p align="center">Exploring the intersection of code and insights to build impactful solutions.</p>  
 
