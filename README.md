@@ -1,5 +1,3 @@
-Here’s your updated GitHub README in the structured style you're looking for:
-
 ---
 
 <h1 align="center">Hi 👋, I'm Patel Vrunda</h1>  
@@ -23,7 +21,7 @@ Here’s your updated GitHub README in the structured style you're looking for:
 <h3>📫 Connect with Me</h3>  
 <p>  
   📧 <strong>Email:</strong> patelvrunda027@gmail.com<br>  
-  🔗 <a href="https://www.linkedin.com/in/patel-vrunda-82a509257/" target="_blank">LinkedIn</a><br>  
+  🔗 <a href="https://www.linkedin.com/in/vrundapatel027/" target="_blank">LinkedIn</a><br>  
   💻 <a href="https://leetcode.com/u/ptlvrd_027/" target="_blank">LeetCode</a>  
 </p>  
 
@@ -35,7 +33,7 @@ Here’s your updated GitHub README in the structured style you're looking for:
 <p>Java, Python, JavaScript, SQL, NoSQL, C, C++, PHP</p>  
 
 <h4>Web Development</h4>  
-<p>React.js, Next.js, Angular, Node.js, Express.js, Laravel</p>  
+<p>React.js, Next.js, Angular.js, Vue.js, Node.js, Express.js, Laravel</p>  
 <p>HTML, CSS, Bootstrap, Tailwind CSS</p>  
 
 <h4>Databases</h4>  
@@ -44,9 +42,9 @@ Here’s your updated GitHub README in the structured style you're looking for:
 <h4>DevOps & Cloud</h4>  
 <p>AWS, Microsoft Azure</p>  
 
-<h4>Tools & Frameworks</h4>  
+<h4>Tools</h4>  
 <p>Git, Jira, Power BI, Tableau, Jupyter Notebook, IntelliJ IDEA, Visual Studio Code</p>  
 
+<h3>📊 Data Science & Analytics</h3> <h4>Libraries & Tools</h4> <p>NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow</p> 
 ---
 
-This structure ensures clarity, readability, and a visually appealing presentation for your GitHub profile. Let me know if you want any tweaks! 🚀
