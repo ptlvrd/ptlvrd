@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">Hi 👋, I'm Patel Vrunda</h1>  
+<h1 align="center">Hi 👋, I'm Vrunda Patel</h1>  
 <h3 align="center">💻 Software Developer & Data Analyst Enthusiast</h3>  
 
 <p align="center">Exploring the intersection of code and insights to build impactful solutions.</p>  
