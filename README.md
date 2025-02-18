@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Vrunda Patel</h1>  
-<h3 align="center">💻 Software Developer & Data Analyst Enthusiast</h3>  
+<h3 align="center">💻 Data Analyst Enthusiast</h3>  
 
 <p align="center">Exploring the intersection of code and insights to build impactful solutions.</p>  
 
@@ -46,5 +46,6 @@
 <p>Git, Jira, Power BI, Tableau, Jupyter Notebook, IntelliJ IDEA, Visual Studio Code</p>  
 
 <h3>📊 Data Science & Analytics</h3> <h4>Libraries & Tools</h4> <p>NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow</p> 
+
 ---
 
